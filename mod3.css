@@ -1,0 +1,70 @@
+body {
+  font-size: 16px;
+  color:black;
+  background-color: yellow;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav
+{
+
+	border-radius: 0;
+	background-color: purple;
+	color:white;
+}
+h1
+{
+	text-align:left;
+	margin-left: 2%
+}
+h2
+{
+
+	//text-align: center;
+	
+}
+div
+{
+	position:relative;
+}
+#b
+{
+	//position:relative;
+	width:100%;
+	text-align: center;
+	border-radius: 0;
+
+}
+p.main
+{
+	text-align: center;
+	background-color: white;
+	
+	
+	
+	
+	
+	
+	
+	
+	box-sizing:border-box;
+	padding:5%;
+	
+	
+
+
+}
+p.headmain
+{
+	text-align: center;
+    
+	background-color: white;
+	font-size:20px;
+	
+	margin-bottom: 0;
+	position: relative;
+	
+	
+	
+
+
+}
